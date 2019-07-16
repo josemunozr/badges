@@ -1,0 +1,18 @@
+.BadgesList > .Badge {
+  background: #ffffff;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  padding: 1em;
+  margin-bottom: 1em;
+  display: flex;
+  align-items: center;
+}
+
+.Badge > .Badge__avatar {
+  width: 80px;
+  height: 80px;
+}
+
+.Badge > .Badge__info {
+  margin-left: 1em;
+}
