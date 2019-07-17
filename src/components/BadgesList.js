@@ -8,9 +8,9 @@ class BadgesList extends React.Component {
       <ul className="list-unstyled BadgesList">
         {this.props.badges.map(badge => {
           return (
-            <li key={badge.id} className="Badge">
-              <img className="Badge__avatar" src={badge.avatarUrl} alt="avatar" />
-              <div className="Badge__info">
+            <li key={badge.id} className="Badge-item">
+              <img className="Badge-item__avatar" src={badge.avatarUrl} alt="avatar" />
+              <div className="Badge-item__info">
                 <div>
                   {badge.firstName} {badge.lastName}
                 </div>
