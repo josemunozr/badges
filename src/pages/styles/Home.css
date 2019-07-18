@@ -1,0 +1,5 @@
+.Home {
+  background: url('../../images/stars.svg'), #1b1b25;
+  background-repeat: repeat;
+  height: calc(100vh - 60px);
+}
