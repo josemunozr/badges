@@ -3,6 +3,8 @@ import React from 'react';
 import './styles/Home.css';
 import logoPlatziConf from '../images/platziconf-logo.svg';
 import austronaustas from '../images/astronauts.svg';
+import { Link } from 'react-router-dom';
+
 function Home() {
   return (
     <div className="Home">
@@ -13,7 +15,9 @@ function Home() {
             <h1>Print Your Badges</h1>
             <p>The easiest way to manage you conference</p>
           </div>
-          <button className="btn btn-primary">Star Now</button>
+          <Link className="btn btn-primary" to="/badges">
+            Star Now
+          </Link>
         </div>
         <div className="col-7 Home__astronauts">
           <img src={austronaustas} alt="austronaustas" />
