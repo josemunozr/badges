@@ -1,9 +1,12 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
-import '../pages/styles/Badges.css';
 import confLogo from '../images/badge-header.svg';
 import BadgesList from '../components/BadgesList';
+import PageLoading from '../components/PageLoading';
+import PageError from '../components/PageError';
 
+import '../pages/styles/Badges.css';
 import api from '../api';
 
 class Badges extends React.Component {
@@ -33,11 +36,11 @@ class Badges extends React.Component {
 
   render() {
     if (this.state.loading) {
-      return 'Loading..';
+      return <PageLoading />;
     }
 
     if (this.state.error) {
-      return 'Not Found!';
+      return <PageError error={this.state.error} />;
     }
 
     return (
@@ -51,6 +54,13 @@ class Badges extends React.Component {
         </div>
 
         <div className="Badges__container">
+          {this.state.data.length !== 0 && (
+            <div className="Badges__buttons">
+              <Link to="/badges/new" className="btn btn-primary">
+                New Badge
+              </Link>
+            </div>
+          )}
           <div className="Badges__list">
             <div className="Badges__container">
               <BadgesList badges={this.state.data} />

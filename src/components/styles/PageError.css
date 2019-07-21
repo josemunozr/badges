@@ -1,0 +1,6 @@
+.PageError {
+  height: var(--full-height);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
