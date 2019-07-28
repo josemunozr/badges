@@ -1,20 +1,94 @@
 {
-  "badges": [
-    {
-      "id": "793f6a7b-5797-48d0-855f-a3367fc9e31f",
-      "firstName": "Rosamond ",
-      "lastName": "Reichel",
-      "email": "Jaeden.Kassulke64@yahoo.com",
-      "jobTitle": "Future Configuration Supervisor",
-      "twitter": "RosamondReichel63541"
-    },
-    {
-      "firstName": "José",
-      "lastName": "Muñoz",
-      "email": "jozeepp@gmail.com",
-      "jobTitle": "frontend engineer",
-      "twitter": "jmunozr_",
-      "id": "eXnbNhE"
-    }
-  ]
+    "badges": [
+        {
+            "id": "6c100393-105f-4dc5-a157-604af2a69408",
+            "firstName": "Orland",
+            "lastName": "Bechtelar",
+            "email": "Abigayle83@gmail.com",
+            "jobTitle": "Senior Paradigm Associate",
+            "twitter": "OrlandBechtelar32869",
+            "avatarUrl": "https://www.gravatar.com/avatar/02229e024d4c61c44c43aba4c4dc502b?d=identicon"
+        },
+        {
+            "id": "f9bd0432-002e-407b-b407-3c08bcde02ed",
+            "firstName": "Rosetta",
+            "lastName": "Terry",
+            "email": "Doug_Parker99@yahoo.com",
+            "jobTitle": "Regional Brand Liaison",
+            "twitter": "RosettaTerry77360",
+            "avatarUrl": "https://www.gravatar.com/avatar/8c1a7d81c232a4ead76f49d78200f7e6?d=identicon"
+        },
+        {
+            "id": "d1a4aac0-f15d-4c10-b20d-a14c416c7d3b",
+            "firstName": "Barbara",
+            "lastName": "Sipes",
+            "email": "Ayla_Romaguera@gmail.com",
+            "jobTitle": "Customer Tactics Officer",
+            "twitter": "BarbaraSipes40327",
+            "avatarUrl": "https://www.gravatar.com/avatar/65e2f22693d6bdc61021cd5dfdcabddb?d=identicon"
+        },
+        {
+            "id": "8be3a7e3-240b-4e78-bf33-f56a6756faf4",
+            "firstName": "Beulah",
+            "lastName": "Bergstrom",
+            "email": "Damaris.Harris97@gmail.com",
+            "jobTitle": "Investor Configuration Assistant",
+            "twitter": "BeulahBergstrom11175",
+            "avatarUrl": "https://www.gravatar.com/avatar/b85b9671395bfe292e108c6354af0066?d=identicon"
+        },
+        {
+            "id": "f2fe662a-75ba-4946-8216-5274e580bc03",
+            "firstName": "Alf",
+            "lastName": "Emard",
+            "email": "Queenie_Cronin63@gmail.com",
+            "jobTitle": "Future Communications Analyst",
+            "twitter": "AlfEmard28213",
+            "avatarUrl": "https://www.gravatar.com/avatar/f6088fd7e7132232ad20971578fd6db1?d=identicon"
+        },
+        {
+            "id": "0955ced5-2e75-4a2b-a639-5dce49e065a2",
+            "firstName": "Alessandro",
+            "lastName": "Kerluke",
+            "email": "Ronaldo_Kilback25@yahoo.com",
+            "jobTitle": "Investor Assurance Orchestrator",
+            "twitter": "AlessandroKerluke80254",
+            "avatarUrl": "https://www.gravatar.com/avatar/7b0632522395cbdc59b3ee2f10894ed1?d=identicon"
+        },
+        {
+            "id": "7e847e92-400d-41ad-a946-18a09e300ae2",
+            "firstName": "Mohamed",
+            "lastName": "Thiel",
+            "email": "Austin.Green@gmail.com",
+            "jobTitle": "Product Functionality Officer",
+            "twitter": "MohamedThiel63781",
+            "avatarUrl": "https://www.gravatar.com/avatar/e7cbca091f7e0a72165e61e941fde926?d=identicon"
+        },
+        {
+            "id": "a7e7df85-a95c-4e92-a978-6adcd355dccf",
+            "firstName": "Oscar",
+            "lastName": "Kiehn",
+            "email": "Gia.Lynch@hotmail.com",
+            "jobTitle": "Product Optimization Facilitator",
+            "twitter": "OscarKiehn09025-2330",
+            "avatarUrl": "https://www.gravatar.com/avatar/ffe01ae661aafcf7473bbdea9608d32a?d=identicon"
+        },
+        {
+            "id": "ecb87017-d02e-4888-88e7-2fc874d0b584",
+            "firstName": "Jazmin",
+            "lastName": "Brakus",
+            "email": "Davonte45@hotmail.com",
+            "jobTitle": "Investor Brand Facilitator",
+            "twitter": "JazminBrakus66046",
+            "avatarUrl": "https://www.gravatar.com/avatar/fd8827484ffde00912dcc31ff33d7099?d=identicon"
+        },
+        {
+            "id": "df306ed2-47b0-4083-8041-8f524e0f5971",
+            "firstName": "Janie",
+            "lastName": "Abbott",
+            "email": "Drake7@gmail.com",
+            "jobTitle": "Lead Factors Orchestrator",
+            "twitter": "JanieAbbott45347",
+            "avatarUrl": "https://www.gravatar.com/avatar/b2d5a649dda4dd4d8b43b623b23d8121?d=identicon"
+        }
+    ]
 }
